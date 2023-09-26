@@ -1,0 +1,17 @@
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\bin\Debug\net7.0\ClientA.exe
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\bin\Debug\net7.0\ClientA.deps.json
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\bin\Debug\net7.0\ClientA.runtimeconfig.json
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\bin\Debug\net7.0\ClientA.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\bin\Debug\net7.0\ClientA.pdb
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.AssemblyInfoInputs.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.AssemblyInfo.cs
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.csproj.CoreCompileInputs.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\refint\ClientA.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.pdb
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.genruntimeconfig.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ref\ClientA.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.csproj.AssemblyReference.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\ClientA\obj\Debug\net7.0\ClientA.csproj.CopyComplete

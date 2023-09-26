@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpDR5d+Ghi5bpBV8aevjqsxM11vIFHaqnf3sC/yM79BbodB/HDsuC+IaVm5ep06BB3FT8g3Bq/o1l+VqWzkDHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ghazeleh Beheshtian\\Desktop\\ServerApp\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ghazeleh Beheshtian\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

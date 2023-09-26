@@ -1,0 +1,17 @@
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\bin\Debug\net7.0\Clinet.exe
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\bin\Debug\net7.0\Clinet.deps.json
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\bin\Debug\net7.0\Clinet.runtimeconfig.json
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\bin\Debug\net7.0\Clinet.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\bin\Debug\net7.0\Clinet.pdb
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.csproj.AssemblyReference.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.AssemblyInfoInputs.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.AssemblyInfo.cs
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.csproj.CoreCompileInputs.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.csproj.CopyComplete
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\refint\Clinet.dll
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.pdb
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\Clinet.genruntimeconfig.cache
+C:\Users\Ghazeleh Beheshtian\Desktop\ServerApp\Clinet\obj\Debug\net7.0\ref\Clinet.dll
